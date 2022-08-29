@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for w in ["abcdefghijklmnopqrstuvwxyz"]:
-    print("{}".format(w))
+for alpha in ['abcdefghijklmnopqrstuvwxyz']:
+    print(alpha, end='')
